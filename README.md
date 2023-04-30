@@ -46,4 +46,4 @@ To use the code, copy and paste it into a SQL editor or command-line interface t
 
 11. `Seat Utilization`: This statement calculates the percentage of seats in the restaurant that are utilized during business hours, based on the number of customers served during that time.
 
-The data is then visualised using Tableau
+The data is then visualised using Tableau(https://public.tableau.com/app/profile/selete/viz/Pizzashopanalysis/Dashboard1?publish=yes)
